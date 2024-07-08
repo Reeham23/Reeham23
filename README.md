@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Reeham23
 
-Welcome to my GitHub profile! I'm an Embedded Software Tester at Valeo with 2 years of experience.
+Welcome to my GitHub profile! I'm an Embedded Software Tester with 2 years of experience.
 
 ## About Me:
 - 👀 I’m interested in embedded systems, automated testing, and software development.
