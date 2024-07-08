@@ -23,7 +23,5 @@ Welcome to my GitHub profile! I'm an Embedded Software Tester at Valeo with 2 ye
 ![XDS](https://img.shields.io/badge/XDS-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Testing Scripts](https://img.shields.io/badge/Testing_Scripts-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## Resume:
-- [Click here to check my resume](https://drive.google.com/file/d/1TxtR7k4lOMR68_YYJm018xDjAKcKC3Hd/view?usp=sharing)
 
 
